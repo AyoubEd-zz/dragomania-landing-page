@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dragomania-landing-page/static/css/main.c2c423fb.css",
+    "main.js": "/dragomania-landing-page/static/js/main.a57083d5.js",
+    "static/js/787.fb80194e.chunk.js": "/dragomania-landing-page/static/js/787.fb80194e.chunk.js",
+    "static/media/dragos-animated.gif": "/dragomania-landing-page/static/media/dragos-animated.9ffa154cf0b90fa88ec5.gif",
+    "static/media/electric-drago.png": "/dragomania-landing-page/static/media/electric-drago.7eaeb2ae80e2f9207657.png",
+    "static/media/background.png": "/dragomania-landing-page/static/media/background.8beb9adb22d06f03eff6.png",
+    "static/media/plant-drago.png": "/dragomania-landing-page/static/media/plant-drago.a481fd5c39b05d7fad1b.png",
+    "static/media/fire.gif": "/dragomania-landing-page/static/media/fire.f119d139c29d58481781.gif",
+    "static/media/electricity.gif": "/dragomania-landing-page/static/media/electricity.e0318fe8e1bca9d002a7.gif",
+    "static/media/plant.gif": "/dragomania-landing-page/static/media/plant.fe0e5d2d56bfacd89825.gif",
+    "static/media/sound.gif": "/dragomania-landing-page/static/media/sound.b9ac088e4f213158964a.gif",
+    "static/media/solana-drago.png": "/dragomania-landing-page/static/media/solana-drago.6335859ca4b4ec0940cc.png",
+    "static/media/dragon-map.jpg": "/dragomania-landing-page/static/media/dragon-map.a9b13453835e0a72d27a.jpg",
+    "static/media/wings.png": "/dragomania-landing-page/static/media/wings.070551597357511a1abd.png",
+    "static/media/eye.png": "/dragomania-landing-page/static/media/eye.e7501017e49c8516c9bc.png",
+    "static/media/mouth.png": "/dragomania-landing-page/static/media/mouth.831854095491830cd85e.png",
+    "index.html": "/dragomania-landing-page/index.html",
+    "main.c2c423fb.css.map": "/dragomania-landing-page/static/css/main.c2c423fb.css.map",
+    "main.a57083d5.js.map": "/dragomania-landing-page/static/js/main.a57083d5.js.map",
+    "787.fb80194e.chunk.js.map": "/dragomania-landing-page/static/js/787.fb80194e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2c423fb.css",
+    "static/js/main.a57083d5.js"
+  ]
+}
