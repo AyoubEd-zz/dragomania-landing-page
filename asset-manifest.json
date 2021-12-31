@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "/dragomania-landing-page/static/css/main.c2c423fb.css",
-    "main.js": "/dragomania-landing-page/static/js/main.a57083d5.js",
-    "static/js/787.fb80194e.chunk.js": "/dragomania-landing-page/static/js/787.fb80194e.chunk.js",
-    "static/media/dragos-animated.gif": "/dragomania-landing-page/static/media/dragos-animated.9ffa154cf0b90fa88ec5.gif",
-    "static/media/electric-drago.png": "/dragomania-landing-page/static/media/electric-drago.7eaeb2ae80e2f9207657.png",
-    "static/media/background.png": "/dragomania-landing-page/static/media/background.8beb9adb22d06f03eff6.png",
-    "static/media/plant-drago.png": "/dragomania-landing-page/static/media/plant-drago.a481fd5c39b05d7fad1b.png",
-    "static/media/fire.gif": "/dragomania-landing-page/static/media/fire.f119d139c29d58481781.gif",
-    "static/media/electricity.gif": "/dragomania-landing-page/static/media/electricity.e0318fe8e1bca9d002a7.gif",
-    "static/media/plant.gif": "/dragomania-landing-page/static/media/plant.fe0e5d2d56bfacd89825.gif",
-    "static/media/sound.gif": "/dragomania-landing-page/static/media/sound.b9ac088e4f213158964a.gif",
-    "static/media/solana-drago.png": "/dragomania-landing-page/static/media/solana-drago.6335859ca4b4ec0940cc.png",
-    "static/media/dragon-map.jpg": "/dragomania-landing-page/static/media/dragon-map.a9b13453835e0a72d27a.jpg",
-    "static/media/wings.png": "/dragomania-landing-page/static/media/wings.070551597357511a1abd.png",
-    "static/media/eye.png": "/dragomania-landing-page/static/media/eye.e7501017e49c8516c9bc.png",
-    "static/media/mouth.png": "/dragomania-landing-page/static/media/mouth.831854095491830cd85e.png",
-    "index.html": "/dragomania-landing-page/index.html",
-    "main.c2c423fb.css.map": "/dragomania-landing-page/static/css/main.c2c423fb.css.map",
-    "main.a57083d5.js.map": "/dragomania-landing-page/static/js/main.a57083d5.js.map",
-    "787.fb80194e.chunk.js.map": "/dragomania-landing-page/static/js/787.fb80194e.chunk.js.map"
+    "main.css": "/static/css/main.717430be.css",
+    "main.js": "/static/js/main.448b0b4c.js",
+    "static/media/dragos-animated.gif": "/static/media/dragos-animated.9ffa154cf0b90fa88ec5.gif",
+    "static/media/electric-drago.png": "/static/media/electric-drago.7eaeb2ae80e2f9207657.png",
+    "static/media/background.png": "/static/media/background.8beb9adb22d06f03eff6.png",
+    "static/media/plant-drago.png": "/static/media/plant-drago.a481fd5c39b05d7fad1b.png",
+    "static/media/fire.gif": "/static/media/fire.f119d139c29d58481781.gif",
+    "static/media/electricity.gif": "/static/media/electricity.e0318fe8e1bca9d002a7.gif",
+    "static/media/plant.gif": "/static/media/plant.fe0e5d2d56bfacd89825.gif",
+    "static/media/sound.gif": "/static/media/sound.b9ac088e4f213158964a.gif",
+    "static/media/solana-drago.png": "/static/media/solana-drago.6335859ca4b4ec0940cc.png",
+    "static/media/dragon-map.jpg": "/static/media/dragon-map.a9b13453835e0a72d27a.jpg",
+    "static/media/wings.png": "/static/media/wings.070551597357511a1abd.png",
+    "static/media/eye.png": "/static/media/eye.e7501017e49c8516c9bc.png",
+    "static/media/mouth.png": "/static/media/mouth.831854095491830cd85e.png",
+    "index.html": "/index.html",
+    "main.717430be.css.map": "/static/css/main.717430be.css.map",
+    "main.448b0b4c.js.map": "/static/js/main.448b0b4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2c423fb.css",
-    "static/js/main.a57083d5.js"
+    "static/css/main.717430be.css",
+    "static/js/main.448b0b4c.js"
   ]
 }
