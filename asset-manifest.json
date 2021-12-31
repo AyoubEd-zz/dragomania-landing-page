@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.717430be.css",
-    "main.js": "/static/js/main.448b0b4c.js",
+    "main.js": "/static/js/main.75b0f5a5.js",
     "static/media/dragos-animated.gif": "/static/media/dragos-animated.9ffa154cf0b90fa88ec5.gif",
     "static/media/electric-drago.png": "/static/media/electric-drago.7eaeb2ae80e2f9207657.png",
     "static/media/background.png": "/static/media/background.8beb9adb22d06f03eff6.png",
@@ -17,10 +17,10 @@
     "static/media/mouth.png": "/static/media/mouth.831854095491830cd85e.png",
     "index.html": "/index.html",
     "main.717430be.css.map": "/static/css/main.717430be.css.map",
-    "main.448b0b4c.js.map": "/static/js/main.448b0b4c.js.map"
+    "main.75b0f5a5.js.map": "/static/js/main.75b0f5a5.js.map"
   },
   "entrypoints": [
     "static/css/main.717430be.css",
-    "static/js/main.448b0b4c.js"
+    "static/js/main.75b0f5a5.js"
   ]
 }
