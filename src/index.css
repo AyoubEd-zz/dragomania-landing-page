@@ -32,6 +32,15 @@
         width: 15px;
         transition: all 500ms ease-in-out;
     }
+
+    .button-outline {
+        color: yellow;
+        padding: 25px;
+    }
+
+    .carousel.carousel-slider {
+        padding: 25px;
+    }
 }
 
 @layer components {

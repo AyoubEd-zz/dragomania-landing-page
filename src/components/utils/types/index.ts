@@ -63,8 +63,18 @@ export interface ICardAuction {
     image: string;
     date: string;
     expired: number;
+    icon: string;
 }
 
+export interface ICardTeam {
+    author: string;
+    authorVerified: boolean;
+    title: string;
+    bidPrice: number;
+    image: string;
+    date: string;
+    expired: number;
+}
 export interface ICardCollection {
     author: string;
     authorVerified: boolean;

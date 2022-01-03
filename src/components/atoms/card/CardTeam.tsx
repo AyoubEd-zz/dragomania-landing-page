@@ -1,11 +1,11 @@
 import React from "react";
-import { ICardAuction } from "../../utils/types";
+import { ICardTeam } from "../../utils/types";
 import { BsCheck } from "react-icons/bs";
 import { BsInstagram, BsTwitter } from 'react-icons/bs'
 import { FaFacebookF } from 'react-icons/fa'
 import { RiLinkedinFill } from 'react-icons/ri'
 
-const CardAuction: React.FC<ICardAuction> = ({
+const CardAuction: React.FC<ICardTeam> = ({
   title,
   author,
   authorVerified,

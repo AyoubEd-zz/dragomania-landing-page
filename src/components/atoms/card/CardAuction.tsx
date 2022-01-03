@@ -10,6 +10,7 @@ const CardAuction: React.FC<ICardAuction> = ({
   date,
   expired,
   bidPrice,
+  icon,
 }) => {
   return (
     <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
@@ -18,9 +19,16 @@ const CardAuction: React.FC<ICardAuction> = ({
         className="bg-no-repeat bg-center bg-cover rounded-lg pt-60 px-4 pb-14"
       ></div>
       <div className="bg-white p-3 rounded-lg">
-        <a href="#" className="font-semibold text-pink text-lg">
-          {title}
-        </a>
+        <ul className="flex flex-row flex-wrap mb-1 items-center">
+          <li className="flex-grow-0 flex-shrink flex flex-row flex-nowrap items-center mr-3">
+            <img src={icon} alt="card icon, represents a class element" style={{height: '25px'}}/>
+          </li>
+          <li className="flex-grow-0 flex-shrink flex flex-row flex-nowrap items-center mr-3">
+            <a href="#" className="font-semibold text-pink text-lg">
+              {title}
+            </a>
+          </li>
+        </ul>
         <ul className="flex flex-row flex-wrap mb-1 items-center">
           <li className="flex-grow-0 flex-shrink flex flex-row flex-nowrap items-center mr-3">
             <h6 className="text-sm text-gray-500">{author}</h6>

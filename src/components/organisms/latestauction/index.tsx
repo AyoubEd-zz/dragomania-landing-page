@@ -1,9 +1,11 @@
 import React from 'react'
 import ListAuction from '../../molecules/list/ListAuction'
+import ListAuctionTwo from '../../molecules/list/ListAuction2'
 import TitleSection from '../../molecules/TitleSection'
 
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import "react-responsive-carousel/lib/styles/carousel.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
+import "../../utils/styles/carousel.css"
 
 const LatestAuction : React.FC = () => {
     return (
@@ -16,7 +18,7 @@ const LatestAuction : React.FC = () => {
 
             <Carousel showStatus={false}>
                 <ListAuction />
-                <ListAuction />
+                <ListAuctionTwo />
             </Carousel>
         </div>
     )
