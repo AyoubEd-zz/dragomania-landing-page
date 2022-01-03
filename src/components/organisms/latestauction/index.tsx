@@ -2,6 +2,9 @@ import React from 'react'
 import ListAuction from '../../molecules/list/ListAuction'
 import TitleSection from '../../molecules/TitleSection'
 
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import { Carousel } from 'react-responsive-carousel';
+
 const LatestAuction : React.FC = () => {
     return (
         <div className='container mx-auto'>
@@ -11,7 +14,10 @@ const LatestAuction : React.FC = () => {
                 classes='text-center mb-10'
             />
 
-            <ListAuction />
+            <Carousel showStatus={false}>
+                <ListAuction />
+                <ListAuction />
+            </Carousel>
         </div>
     )
 }

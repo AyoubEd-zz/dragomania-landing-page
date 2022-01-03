@@ -32,7 +32,8 @@ module.exports = {
     },
   },
   variants: {},
-  plugins: [],
+  plugins: [
+  ],
   purge: {
     // Filenames to scan for classes
     content: [

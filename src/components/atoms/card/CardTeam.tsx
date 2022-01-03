@@ -15,12 +15,11 @@ const CardAuction: React.FC<ICardAuction> = ({
   bidPrice,
 }) => {
   return (
-    <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
-      <div
-        style={{ backgroundImage: `url('${image}')` }}
-        className="bg-no-repeat bg-center bg-cover rounded-lg pt-60 px-4 pb-14"
-      ></div>
-      <div className="bg-white p-3 rounded-lg">
+    <div className="relative p-3 rounded-lg">
+      <img src={image} alt="team member"
+        className="rounded-lg"
+      />
+      <div className="bg-transparent p-3 rounded-lg">
         <ul className="flex flex-row flex-wrap mb-1 items-center">
           <li className="flex-grow-0 flex-shrink mr-2">
         <a href="#" className="font-semibold text-pink text-lg">
@@ -44,7 +43,7 @@ const CardAuction: React.FC<ICardAuction> = ({
             )}
           </li>
         </ul>
-        <div>
+        <div className="text-white">
           {date}
         </div>
         <ul className="flex flex-row flex-wrap mb-1 items-center">
