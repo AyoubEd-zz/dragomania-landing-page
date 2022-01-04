@@ -12,11 +12,7 @@ import Team from "./components/organisms/team";
 function App() {
   return (
     <div>
-      <Navigation />
-
-      <div className='mb-20'>
-        <Solana />
-      </div>
+      <Navigation />      
 
       <div className="py-20 bg-navy-secondary">
         <Collection />
@@ -24,6 +20,10 @@ function App() {
 
       <div className="py-20 bg-navy-secondary">
         <LatestAuction />
+      </div>
+
+      <div className='mb-20'>
+        <Solana />
       </div>
 
       <div className='mt-20'>
