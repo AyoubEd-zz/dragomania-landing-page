@@ -39,10 +39,10 @@ const ContentRight: React.FC = () => {
         subtitle="Welcome to Dragomania"
         classes="mb-4"
       />
-      <Carousel showStatus={false}>
+      {/* <Carousel showStatus={false}>
         <Elements />
         <Elements />
-      </Carousel>
+      </Carousel> */}
       <div className="mt-10 text-white">
         Delivering a high-quality Play-to-Earn gaming experience that supports
         the player centric ecosystem via a robust tokenomics structure is our

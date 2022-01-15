@@ -16,7 +16,7 @@ const LatestAuction : React.FC = () => {
                 classes='text-center mb-10'
             />
 
-            <Carousel showStatus={false}>
+            <Carousel showStatus={false} showArrows={true}>
                 <ListAuction />
                 <ListAuctionTwo />
             </Carousel>

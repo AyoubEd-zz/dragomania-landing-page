@@ -2,6 +2,7 @@ import { MouseEventHandler } from "react";
 
 export interface INavBrand {
     title: string;
+    isActive: boolean;
 }
 
 export interface INavItem {

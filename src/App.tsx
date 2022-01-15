@@ -1,5 +1,6 @@
 import React from "react";
 import Collection from "./components/organisms/collection";
+import Concept from "./components/organisms/concept";
 import Faq from "./components/organisms/faq";
 import Footer from "./components/organisms/footer";
 import LatestAuction from "./components/organisms/latestauction";
@@ -13,6 +14,10 @@ function App() {
   return (
     <div>
       <Navigation />
+
+      <div className="py-20 bg-navy-secondary">
+        <Concept />
+      </div>
 
       <div className='mb-20'>
         <Solana />

@@ -25,7 +25,7 @@ const Navigation: React.FC = () => {
     <div>
       <nav className={"p-2 mt-0 fixed w-full z-10 top-0 " + (scrolled ? "bg-navy-secondary" : "bg-gradient-to-b from-grey")}>
          <div className='container mx-auto flex flex-row flex-wrap xl:flex-nowrap items-center'>
-             <NavBrand title='Dragomania' />
+             <NavBrand title='Dragomania' isActive={isActive} />
 
              <NavToggle btnClick={() => setIsActive(!isActive)} />
 
@@ -34,7 +34,10 @@ const Navigation: React.FC = () => {
              <NavButton />
         </div>
       </nav>
-      <section className="w-full h-screen bg-dragomaniabackground bg-cover bg-center"></section>
+      <div className="bg-blend-darken" style={{position: "relative", width: "100%", fontSize: 0}}>
+        <div style={{position: "absolute", top: 0, left: 0, height: "100%", width: "100%", backgroundColor: "rgba(1, 1, 1, 0.45)"}}></div>
+        <section className="w-full h-screen bg-dragomaniabackground bg-cover bg-center"></section>
+      </div>
     </div>
   );
 };
