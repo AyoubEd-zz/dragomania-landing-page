@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/dragomania-landing-page/static/css/main.18ec5525.css",
-    "main.js": "/dragomania-landing-page/static/js/main.51d6d552.js",
+    "main.css": "/dragomania-landing-page/static/css/main.2b95a243.css",
+    "main.js": "/dragomania-landing-page/static/js/main.a47fe3b0.js",
     "static/js/787.bcfc76df.chunk.js": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js",
     "static/media/dragos-animated.gif": "/dragomania-landing-page/static/media/dragos-animated.9ffa154cf0b90fa88ec5.gif",
     "static/media/electric-drago.png": "/dragomania-landing-page/static/media/electric-drago.7eaeb2ae80e2f9207657.png",
     "static/media/background.png": "/dragomania-landing-page/static/media/background.8beb9adb22d06f03eff6.png",
     "static/media/plant-drago.png": "/dragomania-landing-page/static/media/plant-drago.a481fd5c39b05d7fad1b.png",
+    "static/media/AirDecoupe.png": "/dragomania-landing-page/static/media/AirDecoupe.5e89d310e5d95c729edd.png",
     "static/media/fire.gif": "/dragomania-landing-page/static/media/fire.f119d139c29d58481781.gif",
     "static/media/water.gif": "/dragomania-landing-page/static/media/water.51a19c3df5daf35a9cd0.gif",
     "static/media/electricity.gif": "/dragomania-landing-page/static/media/electricity.e0318fe8e1bca9d002a7.gif",
@@ -21,12 +22,12 @@
     "static/media/drago2.jpeg": "/dragomania-landing-page/static/media/drago2.0edf7679dab8173ee693.jpeg",
     "static/media/drago5.jpeg": "/dragomania-landing-page/static/media/drago5.6925c048173e970ee5b7.jpeg",
     "index.html": "/dragomania-landing-page/index.html",
-    "main.18ec5525.css.map": "/dragomania-landing-page/static/css/main.18ec5525.css.map",
-    "main.51d6d552.js.map": "/dragomania-landing-page/static/js/main.51d6d552.js.map",
+    "main.2b95a243.css.map": "/dragomania-landing-page/static/css/main.2b95a243.css.map",
+    "main.a47fe3b0.js.map": "/dragomania-landing-page/static/js/main.a47fe3b0.js.map",
     "787.bcfc76df.chunk.js.map": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18ec5525.css",
-    "static/js/main.51d6d552.js"
+    "static/css/main.2b95a243.css",
+    "static/js/main.a47fe3b0.js"
   ]
 }
