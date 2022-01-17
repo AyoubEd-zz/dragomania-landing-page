@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dragomania-landing-page/static/css/main.a5e1457c.css",
-    "main.js": "/dragomania-landing-page/static/js/main.13a75f3d.js",
+    "main.css": "/dragomania-landing-page/static/css/main.18ec5525.css",
+    "main.js": "/dragomania-landing-page/static/js/main.51d6d552.js",
     "static/js/787.bcfc76df.chunk.js": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js",
     "static/media/dragos-animated.gif": "/dragomania-landing-page/static/media/dragos-animated.9ffa154cf0b90fa88ec5.gif",
     "static/media/electric-drago.png": "/dragomania-landing-page/static/media/electric-drago.7eaeb2ae80e2f9207657.png",
@@ -14,21 +14,19 @@
     "static/media/steel.gif": "/dragomania-landing-page/static/media/steel.8e28a263afed6b23ab53.gif",
     "static/media/sound.gif": "/dragomania-landing-page/static/media/sound.b9ac088e4f213158964a.gif",
     "static/media/solana-drago.png": "/dragomania-landing-page/static/media/solana-drago.6335859ca4b4ec0940cc.png",
-    "static/media/ayoub.png": "/dragomania-landing-page/static/media/ayoub.97e36f2598778e0a4f44.png",
-    "static/media/anas.png": "/dragomania-landing-page/static/media/anas.70897925877c7e52584d.png",
-    "static/media/alex.png": "/dragomania-landing-page/static/media/alex.7d56171e8869f0e8f81c.png",
-    "static/media/emilien.png": "/dragomania-landing-page/static/media/emilien.0009dd34f915933aac9f.png",
-    "static/media/dragon-map.jpg": "/dragomania-landing-page/static/media/dragon-map.a9b13453835e0a72d27a.jpg",
-    "static/media/wings.png": "/dragomania-landing-page/static/media/wings.070551597357511a1abd.png",
-    "static/media/eye.png": "/dragomania-landing-page/static/media/eye.e7501017e49c8516c9bc.png",
-    "static/media/mouth.png": "/dragomania-landing-page/static/media/mouth.831854095491830cd85e.png",
+    "static/media/drago6.jpeg": "/dragomania-landing-page/static/media/drago6.3a5f7523879c891622bf.jpeg",
+    "static/media/drago3.jpeg": "/dragomania-landing-page/static/media/drago3.4b206b3c3f72e2accabc.jpeg",
+    "static/media/drago4.jpeg": "/dragomania-landing-page/static/media/drago4.90ef70a6c60e29871b6d.jpeg",
+    "static/media/drago1.jpeg": "/dragomania-landing-page/static/media/drago1.e9f241c83c143228178e.jpeg",
+    "static/media/drago2.jpeg": "/dragomania-landing-page/static/media/drago2.0edf7679dab8173ee693.jpeg",
+    "static/media/drago5.jpeg": "/dragomania-landing-page/static/media/drago5.6925c048173e970ee5b7.jpeg",
     "index.html": "/dragomania-landing-page/index.html",
-    "main.a5e1457c.css.map": "/dragomania-landing-page/static/css/main.a5e1457c.css.map",
-    "main.13a75f3d.js.map": "/dragomania-landing-page/static/js/main.13a75f3d.js.map",
+    "main.18ec5525.css.map": "/dragomania-landing-page/static/css/main.18ec5525.css.map",
+    "main.51d6d552.js.map": "/dragomania-landing-page/static/js/main.51d6d552.js.map",
     "787.bcfc76df.chunk.js.map": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5e1457c.css",
-    "static/js/main.13a75f3d.js"
+    "static/css/main.18ec5525.css",
+    "static/js/main.51d6d552.js"
   ]
 }
