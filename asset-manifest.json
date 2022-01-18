@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dragomania-landing-page/static/css/main.2b95a243.css",
-    "main.js": "/dragomania-landing-page/static/js/main.a47fe3b0.js",
+    "main.css": "/dragomania-landing-page/static/css/main.c485135b.css",
+    "main.js": "/dragomania-landing-page/static/js/main.0ecaff8c.js",
     "static/js/787.bcfc76df.chunk.js": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js",
     "static/media/dragos-animated.gif": "/dragomania-landing-page/static/media/dragos-animated.9ffa154cf0b90fa88ec5.gif",
     "static/media/electric-drago.png": "/dragomania-landing-page/static/media/electric-drago.7eaeb2ae80e2f9207657.png",
@@ -15,6 +15,7 @@
     "static/media/steel.gif": "/dragomania-landing-page/static/media/steel.8e28a263afed6b23ab53.gif",
     "static/media/sound.gif": "/dragomania-landing-page/static/media/sound.b9ac088e4f213158964a.gif",
     "static/media/solana-drago.png": "/dragomania-landing-page/static/media/solana-drago.6335859ca4b4ec0940cc.png",
+    "static/media/log_animated.gif": "/dragomania-landing-page/static/media/log_animated.230ee9ec040a068fedf6.gif",
     "static/media/drago6.jpeg": "/dragomania-landing-page/static/media/drago6.3a5f7523879c891622bf.jpeg",
     "static/media/drago3.jpeg": "/dragomania-landing-page/static/media/drago3.4b206b3c3f72e2accabc.jpeg",
     "static/media/drago4.jpeg": "/dragomania-landing-page/static/media/drago4.90ef70a6c60e29871b6d.jpeg",
@@ -22,12 +23,12 @@
     "static/media/drago2.jpeg": "/dragomania-landing-page/static/media/drago2.0edf7679dab8173ee693.jpeg",
     "static/media/drago5.jpeg": "/dragomania-landing-page/static/media/drago5.6925c048173e970ee5b7.jpeg",
     "index.html": "/dragomania-landing-page/index.html",
-    "main.2b95a243.css.map": "/dragomania-landing-page/static/css/main.2b95a243.css.map",
-    "main.a47fe3b0.js.map": "/dragomania-landing-page/static/js/main.a47fe3b0.js.map",
+    "main.c485135b.css.map": "/dragomania-landing-page/static/css/main.c485135b.css.map",
+    "main.0ecaff8c.js.map": "/dragomania-landing-page/static/js/main.0ecaff8c.js.map",
     "787.bcfc76df.chunk.js.map": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b95a243.css",
-    "static/js/main.a47fe3b0.js"
+    "static/css/main.c485135b.css",
+    "static/js/main.0ecaff8c.js"
   ]
 }
