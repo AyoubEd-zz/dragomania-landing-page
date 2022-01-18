@@ -3,9 +3,10 @@ import { ICardFeature } from '../../utils/types'
 
 const CardFeature : React.FC<ICardFeature> = ({ icon, title }) => {
     return (
-        <div className='relative bg-navy-ascent p-3 rounded-lg text-center'>
-            <img src={icon} alt="feature" className=' w-14 mx-auto' />
-            <h6 className='text-lg text-pink mt-1'>{title}</h6>
+        <div className='relative bg-navy-ascent p-3 rounded-lg text-center' style={{height: '100%'}}>
+            {/* <img src={icon} alt="feature" className=' w-14 mx-auto' /> */}
+            <h6 className='text-lg text-white mt-1 break-words'>{icon}</h6>
+            <h6 className='text-3xl text-pink mt-4 break-words' style={{bottom: 0}}>{title}</h6>
         </div>
     )
 }

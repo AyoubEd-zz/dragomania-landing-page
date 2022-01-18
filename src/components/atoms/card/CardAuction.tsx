@@ -13,23 +13,36 @@ const CardAuction: React.FC<ICardAuction> = ({
   icon,
 }) => {
   return (
-    <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
-      <div
-        style={{ backgroundImage: `url('${image}')` }}
+    <div className="relative bg-navy-ascent rounded-lg duration-500 transform hover:scale-105">
+      {/* <div
+        style={{ backgroundImage: `url('${image}')`, width: '100%', transform: 'scale(.8)' }}
         className="bg-no-repeat bg-center bg-cover rounded-lg pt-60 px-4 pb-14"
       ></div>
-      <div className="bg-white p-3 rounded-lg">
-        <ul className="flex flex-row flex-wrap mb-1 items-center">
+      <div className="bg-transparent p-3 rounded-lg">
+        <ul className="flex flex-row mb-1 content-center mx-auto">
           <li className="flex-grow-0 flex-shrink flex flex-row flex-nowrap items-center mr-3">
             <img src={icon} alt="card icon, represents a class element" style={{height: '25px'}}/>
           </li>
-          <li className="flex-grow-0 flex-shrink flex flex-row flex-nowrap items-center mr-3">
+          <li className="flex-grow-0 flex-shrink flex flex-row flex-nowrap mr-3">
             <a href="#" className="font-semibold text-pink text-lg">
               {title}
             </a>
           </li>
-        </ul>
-        <ul className="flex flex-row flex-wrap mb-1 items-center">
+        </ul> */}
+        <div className="max-w-sm rounded overflow-hidden shadow-lg">
+  <img className="w-full" src={image} alt="Sunset in the mountains"/>
+  {/* <div className="px-6 py-4"> */}
+    {/* <div className="font-bold text-pink text-xl mb-2">{title}</div> */}
+    {/* <p className="text-gray-700 text-base">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+    </p> */}
+  {/* </div> */}
+  <div className="py-1 rounded-md m-1">
+    <img src={icon} alt="card icon, represents a class element" style={{height: '35px', width: '35px'}}/>
+    <span className="inline-block px-3 py-1 text-lg font-bold text-pink">{title}</span>
+  </div>
+{/* </div> */}
+        {/* <ul className="flex flex-row flex-wrap mb-1 items-center">
           <li className="flex-grow-0 flex-shrink flex flex-row flex-nowrap items-center mr-3">
             <h6 className="text-sm text-gray-500">{author}</h6>
             {authorVerified && (
@@ -53,7 +66,7 @@ const CardAuction: React.FC<ICardAuction> = ({
             </span>
             <span className="text-sm text-purple">{bidPrice} eth</span>
           </li>
-        </ul>
+        </ul> */}
       </div>
     </div>
   );

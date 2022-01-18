@@ -18,7 +18,7 @@ const ListAuction : React.FC = () => {
                     <CardAuction
                         author="gachalifes"
                         authorVerified={true}
-                        title="Abstract of life"
+                        title="Electric"
                         bidPrice={0.00234}
                         image={electricity}
                         date="15 october 2021"
@@ -30,7 +30,7 @@ const ListAuction : React.FC = () => {
                     <CardAuction
                         author="gachalifes"
                         authorVerified={true}
-                        title="Abstract of life"
+                        title="Fire"
                         bidPrice={0.00234}
                         image={fire}
                         date="15 october 2021"
@@ -42,7 +42,7 @@ const ListAuction : React.FC = () => {
                     <CardAuction
                         author="gachalifes"
                         authorVerified={true}
-                        title="Abstract of life"
+                        title="Wind"
                         bidPrice={0.00234}
                         image={sound}
                         date="15 october 2021"
@@ -54,7 +54,7 @@ const ListAuction : React.FC = () => {
                     <CardAuction
                         author="gachalifes"
                         authorVerified={true}
-                        title="Abstract of life"
+                        title="Plant"
                         bidPrice={0.00234}
                         image={plant}
                         date="15 october 2021"

@@ -15,36 +15,36 @@ function App() {
     <div>
       <Navigation />
 
-      <div className="py-20 bg-navy-secondary">
-        <Concept />
-      </div>
-
-      <div className='mb-20'>
-        <Solana />
-      </div>
-
-      <div className="py-20 bg-navy-secondary">
+      <div className="py-20 bg-navy-secondary" id="concept">
         <Collection />
       </div>
 
-      <div className="py-20 bg-navy-secondary">
+      <div className='mb-20' id="solana">
+        <Solana />
+      </div>
+
+      <div className="bg-navy-secondary" id="auction">
         <LatestAuction />
       </div>
 
-      <div className='mt-20'>
+      <div className="bg-navy-secondary" id="earn">
+        <Concept />
+      </div>
+
+      <div className='mt-20' id="story">
         <Story />
       </div>
 
-      <div className='my-20'>
+      <div className='my-20' id="roadmap">
                 <RoadMap />
       </div>
 
-      <div className='bg-navy-secondary'>
-        <Faq />
+      <div className='mt-20' id="team">
+        <Team />
       </div>
 
-      <div className='mt-20'>
-        <Team />
+      <div className='bg-navy-secondary pt-20' id="faq">
+        <Faq />
       </div>
 
       <div className='mt-20'>

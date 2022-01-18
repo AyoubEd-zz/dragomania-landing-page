@@ -6,8 +6,8 @@ const Team : React.FC = () => {
     return (
         <div className='container mx-auto'>
             <TitleSection
-                title='Team'
-                subtitle='the image of diversified talent'
+                title='Our Team'
+                subtitle=''
                 classes='text-center mb-10'
             />
 

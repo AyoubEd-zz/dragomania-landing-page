@@ -11,6 +11,7 @@ const CardAuction: React.FC<ICardTeam> = ({
   authorVerified,
   image,
   date,
+  link,
   expired,
   bidPrice,
 }) => {
@@ -27,7 +28,9 @@ const CardAuction: React.FC<ICardTeam> = ({
         </a>
         </li>
           <li className="flex-grow-0 flex-shrink flex flex-row flex-nowrap items-center mr-3">
-            <h6 className="text-sm text-gray-500">{author}</h6>
+            <a href={link} target="_blank">
+              <h6 className="text-sm text-gray-500 hover:underline">{author}</h6>
+            </a>
             {authorVerified && (
               <span
                 style={{ height: "12px", width: "12px" }}
@@ -46,7 +49,7 @@ const CardAuction: React.FC<ICardTeam> = ({
         <div className="text-white">
           {date}
         </div>
-        <ul className="flex flex-row flex-wrap mb-1 items-center">
+        {/* <ul className="flex flex-row flex-wrap mb-1 items-center">
           <li className="flex-grow-0 flex-shrink mr-2">
             <a
               className="text-white w-10 h-10 rounded-lg bg-navy hover:bg-pink duration-300 block relative"
@@ -78,9 +81,9 @@ const CardAuction: React.FC<ICardTeam> = ({
                 <BsInstagram />
               </i>
             </a>
-          </li>
+          </li> */}
 
-          <li className="flex-grow-0 flex-shrink mr-2">
+          {/* <li className="flex-grow-0 flex-shrink mr-2">
             <a
               className="text-white w-10 h-10 rounded-lg bg-navy hover:bg-pink duration-300 block relative"
               href="#"
@@ -89,8 +92,8 @@ const CardAuction: React.FC<ICardTeam> = ({
                 <RiLinkedinFill />
               </i>
             </a>
-          </li>
-        </ul>
+          </li> */}
+        {/* </ul> */}
       </div>
     </div>
   );

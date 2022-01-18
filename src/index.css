@@ -20,7 +20,7 @@
         line-height: 1.3 !important;
     }
 
-    .roadmap li::before {
+    .list li::before {
         position: absolute;
         left: -8px;
         top: 12px;
@@ -31,11 +31,6 @@
         height: 15px;
         width: 15px;
         transition: all 500ms ease-in-out;
-    }
-
-    .button-outline {
-        color: yellow;
-        padding: 25px;
     }
 
     .carousel.carousel-slider {
@@ -66,6 +61,18 @@
         transform: scaleX(1);
         transform-origin: bottom left;
     }
+
+    .stylistic-quote-mark {
+        font-size: 5rem;
+        right: 100%;
+        @apply mr-2 hidden text-neutral-500 absolute top-0 leading-none;
+    }
+
+    @screen sm {
+        .stylistic-quote-mark {
+            @apply block;
+        }
+    }
 }
 
 @layer components {
@@ -86,8 +93,8 @@
     }
 
     .button-outline {
-        @apply border-pink hover:border-purple;
-        @apply text-pink hover:text-purple;
+        @apply border-pink;
+        @apply text-pink;
     }
 
     .button-primary {

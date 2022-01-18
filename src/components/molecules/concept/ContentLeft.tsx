@@ -1,21 +1,81 @@
-import React from 'react'
+import React from "react";
 import TitleSection from "../TitleSection";
 
-const ContentLeft : React.FC = () => {
-    return (
-        <div className='flex-grow-0 flex-shrink w-full xl:w-6/12 px-4 mb-16 xl:mb-0'>
-        <TitleSection title="Why Solana?" subtitle="Scale for global adoption" classes="mb-4" />
+const ContentLeft: React.FC = () => {
+  return (
+    // <div className="flex-grow-0 flex-shrink w-full xl:w-6/12 px-4 mb-16 xl:mb-0">
+    <div className='container mx-auto flex flex-col flex-nowrap items-center flex-grow-0 flex-shrink w-full xl:w-6/12 px-4 mb-16 xl:mb-0 items-center'>
+      <TitleSection
+        title="Play-to-Earn"
+        subtitle=""
+        classes="mb-4"
+      />
 
-        <div className="flex flex-row flex-wrap" style={{ color: "white" }}>
-            Solana is currently one of the fastest and most scalable blockchains in
-            the world and ideal for gaming. Solana can process more than 50,000
-            transactions per second (TPS) and extremely low transaction fees
-            (~0.00001). These technological advancements make Solana the best
-            candidate for gaining mass adoption and translate to smoother end-user
-            experiences.
-        </div>
-        </div>
-    )
-}
+      <div className="text-muted flex flex-row flex-wrap">
+        <ul className="list">
+          <li
+            style={{
+              listStyle: "none",
+              padding: "5px 0 5px 30px",
+              position: "relative",
+            }}
+          >
+            <div className="relative">
+              <div className="text-pink text-xl">
+                Competing in battles to earn daily rewards
+              </div>
+              <div className="text-white">
+                <br />
+                {/* The NFTs release date will be announced soon, on our official
+                social networks (Twitter, Discord, Medium). We are working close
+                with our community to develop cool features. */}
+              </div>
+            </div>
+          </li>
+          <br/>
+          <li
+            style={{
+              listStyle: "none",
+              padding: "5px 0 5px 30px",
+              position: "relative",
+            }}
+          >
+            <div className="relative">
+              <div className="text-pink text-xl">
+                Breeding Dragos to produce new ones with particular Body Part combinations 
+              </div>
+              <div className="text-white">
+                <br />
+                {/* The NFTs release date will be announced soon, on our official
+                social networks (Twitter, Discord, Medium). We are working close
+                with our community to develop cool features. */}
+              </div>
+            </div>
+          </li>
+          <br/>
+          <li
+            style={{
+              listStyle: "none",
+              padding: "5px 0 5px 30px",
+              position: "relative",
+            }}
+          >
+            <div className="relative">
+              <div className="text-pink text-xl">
+                Collecting and speculating on rare Dragos such as Mystics and Genesis and Pure
+              </div>
+              <div className="text-white">
+                <br />
+                {/* The NFTs release date will be announced soon, on our official
+                social networks (Twitter, Discord, Medium). We are working close
+                with our community to develop cool features. */}
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  );
+};
 
-export default ContentLeft
+export default ContentLeft;

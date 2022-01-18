@@ -75,6 +75,7 @@ export interface ICardTeam {
     image: string;
     date: string;
     expired: number;
+    link: string;
 }
 export interface ICardCollection {
     author: string;

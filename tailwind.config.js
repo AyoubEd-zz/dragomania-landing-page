@@ -18,7 +18,9 @@ module.exports = {
       },
       textColor: {
         'pink': '#f17674',
-        'purple': '#846ff4'
+        // 'purple': '#846ff4',
+        // 'muted': '#E3DFD7'
+        'muted': '#FFF'
       },
       borderColor: {
         'pink': '#f17674',

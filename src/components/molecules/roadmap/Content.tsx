@@ -5,8 +5,8 @@ import TitleSection from "../TitleSection";
 const Content: React.FC = () => {
   return (
     <div className="flex-grow-0 flex-shrink w-full xl:w-6/12 px-10 mx-auto roadmap">
-      <TitleSection title="2084, Arkadia." subtitle="Roadmap" classes="mb-4" />
-      <ul>
+      <TitleSection title="Roadmap" subtitle="Game" classes="mb-4" />
+      <ul className="list">
         <li
           style={{
             listStyle: "none",
@@ -16,14 +16,14 @@ const Content: React.FC = () => {
           }}
         >
           <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
-            <div className="text-pink">01.ROADMAP LAUNCH</div>
-            <div className="text-white">
-              Quality is the core value of the project.
+            <div className="text-pink text-2xl">01.</div>
+            <div className="text-white text-lg">
               <br />
+              -	Project Concept & Idea 
               <br />
-              The NFTs release date will be announced soon, on our official
-              social networks (Twitter, Discord, Medium). We are working close
-              with our community to develop cool features.
+              - Team Sourcing
+              <br />
+              -	Project Development
             </div>
           </div>
         </li>
@@ -37,21 +37,14 @@ const Content: React.FC = () => {
           }}
         >
           <div className="relative bg-navy-ascent p-3 rounded-lg relative duration-500 transform hover:scale-105">
-            <div className="text-pink">
-              02.NFTS MINTING AND OWN-TO-EARN LAUNCH
-            </div>
-            <div className="text-white">
-              <b>Sale of 11,111 Dragos.</b> Their favorite occupation? To
-              explore and battle for rule of the land.
+            <div className="text-pink text-2xl">02.</div>
+            <div className="text-white text-lg">
               <br />
-              Arkadia has become the theatre of an absurd combat spectacle armed
-              with the mysterious Dragos, and their mania is definitely just
-              beginning!
+              -	Private Sale
               <br />
+              -	Partnerships and Marketing
               <br />
-              <b>Own-To-Earn</b>. All owners of DragoMania NFTs will receive
-              royalties from our future comics, games, cartoons. The project is
-              currently under development.
+              -	Genesis Dragos NFT sale
             </div>
           </div>
         </li>
@@ -64,21 +57,68 @@ const Content: React.FC = () => {
           }}
         >
           <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
-            <div className="text-pink">03. PVE AND PVP MODE PLAY-TO-EARN</div>
-            <div className="text-white">
-              In the PvP Mode, join the “Koloseum” to battle other players
-              around the world in various game modes: incentivized Battles,
-              Friendly Battles, Training mode, E-sports and tournaments, and
-              other innovative game modes are currently under development.
+            <div className="text-pink text-2xl">03.</div>
+            <div className="text-white text-lg">
               <br />
+              -	Governance token launch and airdrops
               <br />
-              In the PvE Mode, the Adventure mode features a rich open universe
-              composed of different interconnected worlds. With each its own
-              theme, an exciting storyline, mysteries and challenges, in which
-              you can complete quests, battle monsters, conquer dungeons,
-              explore new territories, caves, sanctuaries, towns, villages,
-              plains, and much more. Offering countless incentivized challenges
-              and activities.
+              -	Dragoloan and In-house NFT Marketplace
+              <br />
+              -	Breeding Game Launch
+              <br />
+              -	PvP Battle Game Launch with ladder and tournaments
+            </div>
+          </div>
+        </li>
+        <li
+          style={{
+            listStyle: "none",
+            borderLeft: "1px dashed #fff",
+            padding: "5px 0 5px 30px",
+            position: "relative",
+          }}
+        >
+          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
+            <div className="text-pink text-2xl">04.</div>
+            <div className="text-white text-lg">
+              <br />
+              -	PvE Adventure Mode
+              <br />
+              -	Land presale 
+            </div>
+          </div>
+        </li>
+        <li
+          style={{
+            listStyle: "none",
+            borderLeft: "1px dashed #fff",
+            padding: "5px 0 5px 30px",
+            position: "relative",
+          }}
+        >
+          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
+            <div className="text-pink text-2xl">05.</div>
+            <div className="text-white text-lg">
+              <br />
+              -	Unified Land and Dragos marketplace
+              <br />
+              -	Dragos Upgrade system
+            </div>
+          </div>
+        </li>
+        <li
+          style={{
+            listStyle: "none",
+            borderLeft: "1px dashed #fff",
+            padding: "5px 0 5px 30px",
+            position: "relative",
+          }}
+        >
+          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
+            <div className="text-pink text-2xl">06.</div>
+            <div className="text-white text-lg">
+              <br />
+              -	Land Gameplay
             </div>
           </div>
         </li>

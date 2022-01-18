@@ -9,17 +9,27 @@ const ContentRight: React.FC = () => {
       <div className="w-full pt-4">
         <div className="w-full mx-auto text-white rounded-2xl">
           <Accordion
-            title="What is your return policy?"
+            title="How can I mint a Drago?"
             content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           />
           <hr className="border-pink"/>
           <Accordion
-            title="What is your return policy?"
+            title="Can I mint on my phone?"
             content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           />
           <hr className="border-pink"/>
           <Accordion
-            title="What is your return policy?"
+            title="What is the utility of the Dragos?"
+            content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          />
+          <hr className="border-pink"/>
+          <Accordion
+            title="How many Dragos can I mint at a time?"
+            content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          />
+          <hr className="border-pink"/>
+          <Accordion
+            title="Will there be a secondary minting phase?"
             content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           />
         </div>

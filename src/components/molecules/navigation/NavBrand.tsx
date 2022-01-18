@@ -13,23 +13,43 @@ const NavBrand : React.FC<INavBrand> = ({isActive}) => {
                 />
 
                 <NavItem
-                    to='#'
-                    text='Story'
+                    to='#concept'
+                    text='Concept'
                 />
 
                 <NavItem
-                    to='#'
+                    to='#solana'
+                    text='Solana'
+                />
+
+                <NavItem
+                    to='#auction'
                     text='Dragos'
                 />
 
                 <NavItem
-                    to='#'
+                    to='#earn'
+                    text='Earn'
+                />
+
+                <NavItem
+                    to='#story'
+                    text='Story'
+                />
+
+                <NavItem
+                    to='#roadmap'
                     text='Roadmap'
                 />
 
                 <NavItem
-                    to='#'
-                    text='Faq'
+                    to='#team'
+                    text='Team'
+                />
+
+                <NavItem
+                    to='#faq'
+                    text='FAQ'
                 />
 
                 <NavItem
