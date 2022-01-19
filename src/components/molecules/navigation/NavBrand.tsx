@@ -13,8 +13,8 @@ const NavBrand : React.FC<INavBrand> = ({isActive}) => {
                 />
 
                 <NavItem
-                    to='#concept'
-                    text='Concept'
+                    to='#game'
+                    text='Game'
                 />
 
                 <NavItem
