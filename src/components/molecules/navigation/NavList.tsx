@@ -1,5 +1,4 @@
 import React from 'react'
-import NavItem from '../../atoms/navitem'
 import { INavList } from '../../utils/types'
 
 const NavList : React.FC<INavList> = ({ isActive }) => {

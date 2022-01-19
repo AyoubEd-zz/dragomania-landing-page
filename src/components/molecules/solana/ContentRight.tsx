@@ -1,10 +1,6 @@
 import React from "react";
 import CardFeature from "../../atoms/card/CardFeature";
 import TitleSection from "../TitleSection";
-import wings from "../../utils/images/icon/wings.png";
-import mouth from "../../utils/images/icon/mouth.png";
-import eye from "../../utils/images/icon/eye.png";
-import horn from "../../utils/images/icon/horn.png";
 
 const Elements: React.FC = () => {
   return (
