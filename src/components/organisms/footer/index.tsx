@@ -15,7 +15,7 @@ const Footer : React.FC = () => {
                     <a className='text-purple-800 w-10 h-10 my-1 rounded-lg hover:text-pink duration-300 block relative' href="#">
                         <i className='absolute top-2/4 left-2/4 transform -translate-x-2/4 -translate-y-2/4'><BsDiscord size={30} /></i>
                     </a>
-                    <a href="https://discord.gg/c7txUnnJjY" className="mx-auto text-white text-xl">
+                    <a href="https://discord.gg/cKPHh6rBej" className="mx-auto text-white text-xl">
                         JOIN US ON DISCORD
                     </a>
                 </div>
@@ -36,7 +36,7 @@ const Footer : React.FC = () => {
                     <a className='text-blue-400 w-10 h-10 my-1 rounded-lg hover:text-pink duration-300 block relative' href="#">
                         <i className='absolute top-2/4 left-2/4 transform -translate-x-2/4 -translate-y-2/4'><BsTwitter size={30} /></i>
                     </a>
-                    <a href="https://discord.gg/c7txUnnJjY" className="mx-auto text-white text-xl">
+                    <a href="https://twitter.com/DragoManiaGame" className="mx-auto text-white text-xl">
                         FOLLOW OUR TWITTER
                     </a>
                 </div>
