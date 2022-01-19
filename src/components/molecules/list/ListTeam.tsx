@@ -1,11 +1,11 @@
 import React from 'react'
 import CardTeam from '../../atoms/card/CardTeam'
-import anas from '../../utils/images/team/drago3.jpeg'
-import alex from '../../utils/images/team/drago1.jpeg'
-import ayoub from '../../utils/images/team/drago6.jpeg'
-import emilien from '../../utils/images/team/drago2.jpeg'
-import abdo from '../../utils/images/team/drago4.jpeg'
-import gui from '../../utils/images/team/drago5.jpeg'
+import anas from '../../utils/images/team/drago1.jpg'
+import alex from '../../utils/images/team/drago2.jpg'
+import ayoub from '../../utils/images/team/drago3.jpg'
+import emilien from '../../utils/images/team/drago4.jpg'
+import gui from '../../utils/images/team/drago5.jpg'
+import abdo from '../../utils/images/team/drago6.jpg'
 
 const ListAuction : React.FC = () => {
     return (
@@ -14,10 +14,10 @@ const ListAuction : React.FC = () => {
                     <CardTeam
                         author="anassxxx"
                         authorVerified={true}
-                        title="CEO"
+                        title="Founder, CEO"
                         bidPrice={0.00234}
                         image={anas}
-                        date="Anass is a graduate of the prestigious Sorbonne uni, finance major, chad gamer"
+                        date="Avid gamer. Finance Graduate Sorbonne Business School. Started his career in investment banking, and consulting. Anass is involved in all key decisions."
                         expired={1639152000}
                         link="https://www.linkedin.com/in/anass-fanaki-412440b2/"
                     />
@@ -26,10 +26,10 @@ const ListAuction : React.FC = () => {
                     <CardTeam
                         author="alexyyy"
                         authorVerified={true}
-                        title="CFO"
+                        title="Co-Founder, Marketing & Operations"
                         bidPrice={0.00234}
                         image={alex}
-                        date="Alex also a graduated from Sorbonne uni, top of his class, pro investment banker"
+                        date="Crypto enthusiast and graduated from the Sorbonne Business School. Previously worked in investment banking, Alex is the lead for operational projects including the launch of the NFT collection and the token."
                         expired={1639152000}
                         link=""
                     />
@@ -38,10 +38,10 @@ const ListAuction : React.FC = () => {
                     <CardTeam
                         author="ayoubeddd"
                         authorVerified={true}
-                        title="CTO"
+                        title="Chief Technical Officer"
                         bidPrice={0.00234}
                         image={ayoub}
-                        date="Ayoub is a Georgia Tech MS student, crypto enthusiast, eng through and through"
+                        date="Software engineer at Google, MS Computer Science at Georgia Institute of Technology. Ayoub is involved in Web3 Development since 2017."
                         expired={1639152000}
                         link=""
                     />
@@ -50,10 +50,10 @@ const ListAuction : React.FC = () => {
                     <CardTeam
                         author="Emilien"
                         authorVerified={true}
-                        title="Creative and Art Director"
+                        title="Creative & Art Director"
                         bidPrice={0.00234}
                         image={emilien}
-                        date="Former Lead Artist at Ankama(Dofus), Character design professor, artist at heart"
+                        date="Former Lead Artist and Character designer at Ankama, and other big Gaming companies. Over 10 years participating in the development of successful MMORPGs like Dofus, wakfu, and Raven. Emilien is an Arts and Character Design Professor at the prestigious French Gaming School Supinfogame-Rubika."
                         expired={1639152000}
                         link=""
                     />
@@ -62,10 +62,10 @@ const ListAuction : React.FC = () => {
                     <CardTeam
                         author="Guillaume"
                         authorVerified={true}
-                        title="Creative and Art Director"
+                        title="Game designer"
                         bidPrice={0.00234}
                         image={gui}
-                        date="Ayoub is a Georgia Tech MS student, crypto enthusiast, eng through and through"
+                        date="Over ten years of experience at Ankama. Participated in the development of Dofus and Wakfu and other games. Combining his experiences at the game studio Ankama and his passion for NFT gaming."
                         expired={1639152000}
                         link=""
                     />
@@ -77,7 +77,7 @@ const ListAuction : React.FC = () => {
                         title="Sofware Engineer, AI Expert"
                         bidPrice={0.00234}
                         image={abdo}
-                        date="Former Lead Artist at Ankama(Dofus), Character design professor, artist at heart"
+                        date="MS in Computer Science, and PhD in Machine Learning. Abdelaziz has been involved in Blockchain space since 2018. Passionate about Gaming, AI, NFTs and Blockchain."
                         expired={1639152000}
                         link=""
                     />
