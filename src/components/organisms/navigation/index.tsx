@@ -35,7 +35,7 @@ const Navigation: React.FC = () => {
         </div>
       </nav>
       <div className="bg-blend-darken" style={{position: "relative", width: "100%", fontSize: 0}}>
-        <div style={{position: "absolute", top: 0, left: 0, height: "100%", width: "100%", backgroundColor: "rgba(1, 1, 1, 0.35)"}}></div>
+        <div style={{position: "absolute", top: 0, left: 0, height: "100%", width: "100%", backgroundColor: "rgba(1, 1, 1, 0.05)"}}></div>
         <section className="w-full h-screen bg-dragomaniabackground bg-cover bg-center"></section>
       </div>
     </div>
