@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dragomania-landing-page/static/css/main.c062dce6.css",
+    "main.css": "/dragomania-landing-page/static/css/main.dc2c2fbd.css",
     "main.js": "/dragomania-landing-page/static/js/main.adfd3c76.js",
     "static/js/787.bcfc76df.chunk.js": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js",
     "static/media/dragos-animated.gif": "/dragomania-landing-page/static/media/dragos-animated.9ffa154cf0b90fa88ec5.gif",
@@ -23,12 +23,12 @@
     "static/media/drago4.jpg": "/dragomania-landing-page/static/media/drago4.4bdc9a12c3c249943b47.jpg",
     "static/media/drago5.jpg": "/dragomania-landing-page/static/media/drago5.22f5b1ca707cf82f4824.jpg",
     "index.html": "/dragomania-landing-page/index.html",
-    "main.c062dce6.css.map": "/dragomania-landing-page/static/css/main.c062dce6.css.map",
+    "main.dc2c2fbd.css.map": "/dragomania-landing-page/static/css/main.dc2c2fbd.css.map",
     "main.adfd3c76.js.map": "/dragomania-landing-page/static/js/main.adfd3c76.js.map",
     "787.bcfc76df.chunk.js.map": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c062dce6.css",
+    "static/css/main.dc2c2fbd.css",
     "static/js/main.adfd3c76.js"
   ]
 }
