@@ -7,17 +7,17 @@ import "../../utils/styles/carousel.css"
 
 const LatestAuction : React.FC = () => {
     return (
-        <div className='container mx-auto'>
+        <div className='container mx-auto' >
             <TitleSection
                 title='Genesis Dragos'
                 subtitle='Meet the antagonists'
-                classes='text-center mb-10'
+                classes='text-center mb-10 '
             />
 
             <ListAuction />
 
-            <blockquote className="relative p-4 text-xl italic text-white quote">
-                <cite className="flex items-center">
+            <blockquote className="relative p-4 text-xl italic text-white quote" >
+                <cite className="flex items-center" id="earn" style={{paddingTop: '100px'}}>
                     <p className="mb-4 text-center">
                         Dragos are little fierce dragons living on the Solana Blockchain. There are different classes of Dragos that players can collect with varying body parts and appearances. Some rarer than others. Body parts will unlock abilities that vary across games.
                         <br/>
