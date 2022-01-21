@@ -9,8 +9,8 @@ module.exports = {
       backgroundColor: {
         'navy': '#081937',
         // 'navy-secondary': '#0C2041',
-        'navy-secondary': '#081937',
-        'navy-ascent': '#122647',
+        'navy-secondary': '#070140',
+        'navy-ascent': '#070140',
         'color-none': 'transparent',
         'pink': '#f17674',
         'purple': '#846ff4',
