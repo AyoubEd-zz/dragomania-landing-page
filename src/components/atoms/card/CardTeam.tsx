@@ -1,9 +1,8 @@
 import React from "react";
 import { ICardTeam } from "../../utils/types";
-import { BsCheck } from "react-icons/bs";
-import { BsInstagram, BsTwitter } from 'react-icons/bs'
-import { FaFacebookF } from 'react-icons/fa'
-import { RiLinkedinFill } from 'react-icons/ri'
+import { BsLinkedin } from "react-icons/bs";
+import ReadMoreReact from 'read-more-react';
+import ReadMore from "../readmore/readmore"
 
 const CardAuction: React.FC<ICardTeam> = ({
   title,
@@ -23,7 +22,7 @@ const CardAuction: React.FC<ICardTeam> = ({
       <div className="bg-transparent p-3 rounded-lg">
         <ul className="flex flex-row flex-wrap mb-1 items-center">
           <li className="flex-grow-0 flex-shrink mr-2">
-        <a href="#" className="font-semibold text-pink text-lg">
+        <a href="#" className="font-semibold text-pink text-lg" >
           {title}
         </a>
         </li>
@@ -40,14 +39,19 @@ const CardAuction: React.FC<ICardTeam> = ({
                   className="absolute top-2/4 left-2/4 transform -translate-x-2/4 -translate-y-2/4"
                   style={{ fontSize: "10px" }}
                 >
-                  <BsCheck />
+                  <BsLinkedin />
                 </i>
               </span>
             )}
           </li>
         </ul>
         <div className="text-white">
-          {date}
+          <ReadMore 
+                text={date}
+                min={90}
+                ideal={90}
+                max={100} 
+          />
         </div>
         {/* <ul className="flex flex-row flex-wrap mb-1 items-center">
           <li className="flex-grow-0 flex-shrink mr-2">
