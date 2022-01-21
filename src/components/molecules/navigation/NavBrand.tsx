@@ -54,7 +54,7 @@ const NavBrand : React.FC<INavBrand> = ({isActive}) => {
 
                 <NavItem
                     to='#'
-                    text='Whitepaper'
+                    text='Litepaper'
                 />
             </ul>
         </div>
