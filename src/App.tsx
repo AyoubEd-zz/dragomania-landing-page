@@ -9,41 +9,46 @@ import RoadMap from "./components/organisms/roadmap";
 import Solana from "./components/organisms/solana";
 import Story from "./components/organisms/story";
 import Team from "./components/organisms/team";
+import Companies from "./components/organisms/companies";
 
 function App() {
   return (
     <div>
       <Navigation />
 
-      <div className="py-20 bg-navy-secondary" id="concept">
+      <div className="py-20 bg-navy-secondary" id="game" style={{paddingTop: '80px'}}>
         <Collection />
       </div>
 
-      <div className='mb-20' id="solana">
+      <div className='mb-20' id="solana" style={{paddingTop: '80px'}}>
         <Solana />
       </div>
 
-      <div className="bg-navy-secondary" id="auction">
+      <div className="bg-navy-secondary" id="auction" style={{paddingTop: '80px'}}>
         <LatestAuction />
       </div>
 
-      <div className="bg-navy-secondary" id="earn">
+      <div className="bg-navy-secondary" id="earn" style={{paddingTop: '80px'}}>
         <Concept />
       </div>
 
-      <div className='mt-20' id="story">
+      <div className='mt-20' id="story" style={{paddingTop: '80px'}}>
         <Story />
       </div>
 
-      <div className='my-20' id="roadmap">
-                <RoadMap />
+      <div className='my-20' id="roadmap" style={{paddingTop: '80px'}}>
+        <RoadMap />
       </div>
 
-      <div className='mt-20' id="team">
+      <div className='mt-20' id="team" style={{paddingTop: '80px'}}>
         <Team />
       </div>
 
-      <div className='bg-navy-secondary pt-20' id="faq">
+      <div className='mt-20' id="companies" style={{paddingTop:  '60px'}}>
+        <Companies />
+      </div>
+      
+      <div className='bg-navy-secondary pt-20' id="faq" style={{paddingTop: '80px'}}>
         <Faq />
       </div>
 
