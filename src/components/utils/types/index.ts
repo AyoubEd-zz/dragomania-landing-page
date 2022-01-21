@@ -42,6 +42,7 @@ export interface ITitleSection {
     title: string;
     subtitle: string;
     classes?: string;
+    idname?: string;
 }
 
 export type TDataAuction = Array<

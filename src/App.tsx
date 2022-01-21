@@ -16,7 +16,7 @@ function App() {
     <div>
       <Navigation />
 
-      <div className="py-20 bg-navy-secondary" id="game" style={{paddingTop: '80px'}}>
+      <div className="py-20 " id="game" style={{paddingTop: '80px'}}>
         <Collection />
       </div>
 
@@ -24,11 +24,11 @@ function App() {
         <Solana />
       </div>
 
-      <div className="bg-navy-secondary" id="auction" style={{paddingTop: '80px'}}>
+      <div className="" id="auction" style={{paddingTop: '80px'}}>
         <LatestAuction />
       </div>
 
-      <div className="bg-navy-secondary" id="earn" style={{paddingTop: '80px'}}>
+      <div className="" style={{paddingTop: '80px'}}>
         <Concept />
       </div>
 
@@ -48,7 +48,7 @@ function App() {
         <Companies />
       </div>
       
-      <div className='bg-navy-secondary pt-20' id="faq" style={{paddingTop: '80px'}}>
+      <div className=' pt-20' id="faq" style={{paddingTop: '80px'}}>
         <Faq />
       </div>
 
