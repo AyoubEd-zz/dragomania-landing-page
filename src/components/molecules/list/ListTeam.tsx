@@ -26,7 +26,7 @@ const ListAuction : React.FC = () => {
                     <CardTeam
                         author="alexyyy"
                         authorVerified={true}
-                        title="Co-Founder, Marketing & Operations"
+                        title="Co-Founder, CFO"
                         bidPrice={0.00234}
                         image={alex}
                         date="Crypto enthusiast and graduated from the Sorbonne Business School. Previously worked in investment banking, Alex is the lead for operational projects including the launch of the NFT collection and the token."
