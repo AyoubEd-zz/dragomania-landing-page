@@ -5,6 +5,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
 
 @layer base {
+
+    html{
+        scroll-behavior: smooth !important;
+    }
     body {
         @apply bg-navy;
         font-family: 'Roboto', sans-serif;
@@ -27,7 +31,7 @@
         content: ' ';
         border: 4px solid rgba(255, 255, 255, 1);
         transform: rotate(45deg);
-        background: #f17674;
+        background: #171824;
         height: 15px;
         width: 15px;
         transition: all 500ms ease-in-out;
@@ -40,7 +44,7 @@
     .hover-underline-animation {
         display: inline-block;
         position: relative;
-        color: #f17674;
+        color: #171824;
         cursor: pointer;
     }
 
@@ -52,7 +56,7 @@
         height: 2px;
         bottom: 0;
         left: 0;
-        background-color: #f17674;
+        background-color: #171824;
         transform-origin: bottom right;
         transition: transform 0.25s ease-out;
     }
@@ -79,7 +83,7 @@
     .text-gradient-primary {
         font-weight: 700;
         display: inline-block;
-        background-image: linear-gradient(135deg,#846ff4,#f17674);
+        background-image: linear-gradient(135deg,#846ff4,#171824);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;
