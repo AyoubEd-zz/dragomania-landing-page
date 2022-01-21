@@ -1,7 +1,6 @@
 import React from "react";
 import { ICardTeam } from "../../utils/types";
 import { BsLinkedin } from "react-icons/bs";
-import ReadMoreReact from 'read-more-react';
 import ReadMore from "../readmore/readmore"
 
 const CardAuction: React.FC<ICardTeam> = ({
