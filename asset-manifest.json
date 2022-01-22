@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dragomania-landing-page/static/css/main.fd0b2f29.css",
-    "main.js": "/dragomania-landing-page/static/js/main.23e12aab.js",
+    "main.css": "/dragomania-landing-page/static/css/main.d48d2831.css",
+    "main.js": "/dragomania-landing-page/static/js/main.6920fd39.js",
     "static/js/787.bcfc76df.chunk.js": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js",
     "static/media/dragos-animated.gif": "/dragomania-landing-page/static/media/dragos-animated.9ffa154cf0b90fa88ec5.gif",
     "static/media/electric-drago.png": "/dragomania-landing-page/static/media/electric-drago.7eaeb2ae80e2f9207657.png",
@@ -14,12 +14,8 @@
     "static/media/plant.gif": "/dragomania-landing-page/static/media/plant.fe0e5d2d56bfacd89825.gif",
     "static/media/steel.gif": "/dragomania-landing-page/static/media/steel.8e28a263afed6b23ab53.gif",
     "static/media/sound.gif": "/dragomania-landing-page/static/media/sound.b9ac088e4f213158964a.gif",
-    "static/media/Wakfu_Logo.png": "/dragomania-landing-page/static/media/Wakfu_Logo.8704e80ab2ad60924f36.png",
     "static/media/solana-drago.png": "/dragomania-landing-page/static/media/solana-drago.6335859ca4b4ec0940cc.png",
-    "static/media/EY-logo.png": "/dragomania-landing-page/static/media/EY-logo.7b85d793bcf01e217173.png",
     "static/media/log_animated.gif": "/dragomania-landing-page/static/media/log_animated.230ee9ec040a068fedf6.gif",
-    "static/media/dofus.png": "/dragomania-landing-page/static/media/dofus.c9d18a3e73840354c764.png",
-    "static/media/bloomberg_logo.png": "/dragomania-landing-page/static/media/bloomberg_logo.d6ba50b3e93fe9dd4520.png",
     "static/media/drago3.jpg": "/dragomania-landing-page/static/media/drago3.85d1d01419dd66949eee.jpg",
     "static/media/drago1.jpg": "/dragomania-landing-page/static/media/drago1.b02c92139634deaa2a5b.jpg",
     "static/media/drago6.jpg": "/dragomania-landing-page/static/media/drago6.308d69856f584ea023f3.jpg",
@@ -27,17 +23,13 @@
     "static/media/drago4.jpg": "/dragomania-landing-page/static/media/drago4.4bdc9a12c3c249943b47.jpg",
     "static/media/drago5.jpg": "/dragomania-landing-page/static/media/drago5.22f5b1ca707cf82f4824.jpg",
     "static/media/eggs_texture.PNG": "/dragomania-landing-page/static/media/eggs_texture.d609c268cd5a23eb9206.PNG",
-    "static/media/Google-logo.png": "/dragomania-landing-page/static/media/Google-logo.a64478c86b4bcd2293e3.png",
-    "static/media/PricewaterhouseCoopers_Logo.svg.png": "/dragomania-landing-page/static/media/PricewaterhouseCoopers_Logo.svg.f3157821d3956b866d50.png",
-    "static/media/Natixis-logo-frise.png": "/dragomania-landing-page/static/media/Natixis-logo-frise.726f782e32eb94b16f15.png",
-    "static/media/bnp_paribas.png": "/dragomania-landing-page/static/media/bnp_paribas.deeb0bd004059390d93c.png",
     "index.html": "/dragomania-landing-page/index.html",
-    "main.fd0b2f29.css.map": "/dragomania-landing-page/static/css/main.fd0b2f29.css.map",
-    "main.23e12aab.js.map": "/dragomania-landing-page/static/js/main.23e12aab.js.map",
+    "main.d48d2831.css.map": "/dragomania-landing-page/static/css/main.d48d2831.css.map",
+    "main.6920fd39.js.map": "/dragomania-landing-page/static/js/main.6920fd39.js.map",
     "787.bcfc76df.chunk.js.map": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd0b2f29.css",
-    "static/js/main.23e12aab.js"
+    "static/css/main.d48d2831.css",
+    "static/js/main.6920fd39.js"
   ]
 }
