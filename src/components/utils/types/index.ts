@@ -98,3 +98,7 @@ export interface IAccordion {
 export interface ISlider {
     elements : any;
 }
+
+export interface IImage {
+    image : string;
+}
