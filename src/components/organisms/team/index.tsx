@@ -8,7 +8,7 @@ const Team : React.FC = () => {
             <TitleSection
                 title='Our Team'
                 subtitle=''
-                classes='text-center mb-10'
+                classes='text-center mb-10 colorfull_text arrow_title'
             />
 
             <ListTeam />

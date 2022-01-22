@@ -9,7 +9,7 @@ import image from '../../utils/images/log_animated.gif'
 const Footer : React.FC = () => {
     return (
     <>
-        <div className='container mx-auto flex flex-row flex-wrap bg-navy-ascent rounded-xl py-1'>
+        <div className='container mx-auto flex flex-row flex-wrap bg-navy-ascent rounded-xl py-1 rounded_neon_element'>
             <div className='flex flex-row w-full lg:w-4/12 p-2'>
                 <div className="flex flex-row items-center mx-auto">
                     <a className='text-purple-800 w-10 h-10 my-1 rounded-lg hover:text-pink duration-300 block relative' href="#">

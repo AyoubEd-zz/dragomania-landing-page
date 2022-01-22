@@ -12,7 +12,7 @@ const ContentRight: React.FC = () => {
       <TitleSection
         title="An Innovative Play-and-Earn Game"
         subtitle="Welcome to Dragomania"
-        classes="mb-4"
+        classes="mb-4 colorfull_text"
       />
       <div className="mt-10 text-muted text-xl">
         Dragomania is a fun-to-play-to-earn game partially owned and operated by its players. Where players can come together, collect adorable and cool Dragos as NFTs to play, earn and live. Build up a collection to battle, breed, collect, raise, and build kingdoms for your Dragos. 

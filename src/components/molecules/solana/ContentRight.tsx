@@ -39,7 +39,7 @@ const Elements: React.FC = () => {
 const ContentRight: React.FC = () => {
   return (
     <div className="flex-grow-0 flex-shrink w-full xl:w-6/12 px-10">
-      <TitleSection title="Why Solana?" subtitle="Scale for global adoption" classes="mb-4" />
+      <TitleSection title="WHY SOLANA?" subtitle="Scale for global adoption" classes="mb-4 colorfull_text arrow_title_left" />
 
       <div className="flex flex-row flex-wrap text-muted text-lg">
         Solana is currently one of the fastest and most scalable blockchains in

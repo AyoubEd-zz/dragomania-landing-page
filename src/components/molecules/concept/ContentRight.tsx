@@ -5,9 +5,9 @@ const ContentRight: React.FC = () => {
   return (
     <div className='container mx-auto flex flex-col flex-nowrap items-center flex-grow-0 flex-shrink w-full xl:w-6/12 px-4 mb-16 xl:mb-0 items-center'>
       <TitleSection
-        title="Own-to-Earn"
+        title="OWN-TO-EARN"
         subtitle=""
-        classes="mb-4"
+        classes="mb-4 colorfull_text"
       />
 
       <div className="text-muted flex flex-row flex-wrap">

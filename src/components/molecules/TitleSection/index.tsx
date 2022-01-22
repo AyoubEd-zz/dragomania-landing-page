@@ -9,7 +9,11 @@ const TitleSection : React.FC<ITitleSection> = ({ subtitle, title, classes, idna
                 text={subtitle}
             />
 
-            <h2 className='text-4xl text-white font-bold mt-2 neonText'>{title}</h2>
+            <div>
+                <h2 className='text-4xl text-white font-bold mt-2'>{title}</h2>
+            </div>
+
+            
         </div>
     )
 }

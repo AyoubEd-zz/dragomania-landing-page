@@ -5,7 +5,7 @@ import TitleSection from "../TitleSection";
 const Content: React.FC = () => {
   return (
     <div className="flex-grow-0 flex-shrink w-full xl:w-6/12 px-10 mx-auto roadmap">
-      <TitleSection title="Roadmap" subtitle="Game" classes="mb-4" />
+      <TitleSection title="ROADMAP" subtitle="Game" classes="mb-4 colorfull_text arrow_title_left" />
       <ul className="list">
         <li
           style={{
@@ -15,7 +15,7 @@ const Content: React.FC = () => {
             position: "relative",
           }}
         >
-          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
+          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105 neon_simple">
             <div className="text-pink text-2xl">01.</div>
             <div className="text-white text-lg">
               <br />
@@ -36,7 +36,7 @@ const Content: React.FC = () => {
             position: "relative",
           }}
         >
-          <div className="relative bg-navy-ascent p-3 rounded-lg relative duration-500 transform hover:scale-105">
+          <div className="relative bg-navy-ascent p-3 rounded-lg relative duration-500 transform hover:scale-105 neon_simple">
             <div className="text-pink text-2xl">02.</div>
             <div className="text-white text-lg">
               <br />
@@ -56,7 +56,7 @@ const Content: React.FC = () => {
             position: "relative",
           }}
         >
-          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
+          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105 neon_simple">
             <div className="text-pink text-2xl">03.</div>
             <div className="text-white text-lg">
               <br />
@@ -78,7 +78,7 @@ const Content: React.FC = () => {
             position: "relative",
           }}
         >
-          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
+          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105 neon_simple">
             <div className="text-pink text-2xl">04.</div>
             <div className="text-white text-lg">
               <br />
@@ -96,7 +96,7 @@ const Content: React.FC = () => {
             position: "relative",
           }}
         >
-          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
+          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105 neon_simple">
             <div className="text-pink text-2xl">05.</div>
             <div className="text-white text-lg">
               <br />
@@ -114,7 +114,7 @@ const Content: React.FC = () => {
             position: "relative",
           }}
         >
-          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105">
+          <div className="relative bg-navy-ascent p-3 rounded-lg duration-500 transform hover:scale-105 neon_simple">
             <div className="text-pink text-2xl">06.</div>
             <div className="text-white text-lg">
               <br />

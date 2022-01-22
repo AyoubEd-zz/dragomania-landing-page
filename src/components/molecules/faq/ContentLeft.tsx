@@ -5,7 +5,7 @@ import Accordion from "../../atoms/accordion";
 const ContentRight: React.FC = () => {
   return (
     <div className="flex-grow-0 flex-shrink w-full xl:w-6/12 px-10 text-white">
-      <TitleSection title="FAQ" subtitle="All you need is ask" classes="mb-4" />
+      <TitleSection title="FAQ" subtitle="All you need is ask" classes="mb-4 colorfull_text arrow_title_left" />
       <div className="w-full pt-4">
         <div className="w-full mx-auto text-white rounded-2xl">
           <Accordion

@@ -5,7 +5,7 @@ import TitleSection from "../TitleSection";
 const ContentRight: React.FC = () => {
   return (
     <div className="flex-grow-0 flex-shrink w-full xl:w-6/12 px-10">
-      <TitleSection title="2084, Arkadia." subtitle="Story" classes="mb-4" />
+      <TitleSection title="2084, ARKADIA." subtitle="Story" classes="mb-4 neonText" />
 
       <div className="flex flex-row flex-wrap text-white text-lg">
         If we believe the many frozen images of the past buried in the rubble,
