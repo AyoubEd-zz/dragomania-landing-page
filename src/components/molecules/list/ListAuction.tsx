@@ -15,7 +15,7 @@ import electricIcon from '../../utils/images/elements/electric.png'
 
 const ListAuction : React.FC = () => {
     return (
-        <div className='flex flex-row flex-wrap'>
+        <div className='flex flex-row flex-wrap' style={{paddingTop: '30px'}}>
                 <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardAuction
                         author="gachalifes"
