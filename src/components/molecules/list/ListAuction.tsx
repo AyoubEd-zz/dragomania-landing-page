@@ -15,8 +15,8 @@ import electricIcon from '../../utils/images/elements/electric.png'
 
 const ListAuction : React.FC = () => {
     return (
-        <div className='flex flex-row flex-initial'>
-                <div className='flex-grow-0 flex-shrink w-full md:w-6/12 xl:w-3/12 p-3'>
+        <div className='flex flex-row flex-wrap'>
+                <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardAuction
                         author="gachalifes"
                         authorVerified={true}
@@ -28,7 +28,7 @@ const ListAuction : React.FC = () => {
                         icon={electricIcon}
                     />
                 </div>
-                <div className='flex-grow-0 flex-shrink w-full md:w-6/12 xl:w-3/12 p-3'>
+                <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardAuction
                         author="gachalifes"
                         authorVerified={true}
@@ -40,7 +40,7 @@ const ListAuction : React.FC = () => {
                         icon={fireIcon}
                     />
                 </div>
-                <div className='flex-grow-0 flex-shrink w-full md:w-6/12 xl:w-3/12 p-3'>
+                <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardAuction
                         author="gachalifes"
                         authorVerified={true}
@@ -52,7 +52,7 @@ const ListAuction : React.FC = () => {
                         icon={windIcon}
                     />
                 </div>
-                <div className='flex-grow-0 flex-shrink w-full md:w-6/12 xl:w-3/12 p-3'>
+                <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardAuction
                         author="gachalifes"
                         authorVerified={true}
@@ -64,7 +64,7 @@ const ListAuction : React.FC = () => {
                         icon={natureIcon}
                     />
                 </div>
-                <div className='flex-grow-0 flex-shrink w-full md:w-6/12 xl:w-3/12 p-3'>
+                <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardAuction
                         author="gachalifes"
                         authorVerified={true}
@@ -76,7 +76,7 @@ const ListAuction : React.FC = () => {
                         icon={waterIcon}
                     />
                 </div>
-                <div className='flex-grow-0 flex-shrink w-full md:w-6/12 xl:w-3/12 p-3'>
+                <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardAuction
                         author="gachalifes"
                         authorVerified={true}
