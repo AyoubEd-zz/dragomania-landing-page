@@ -62,18 +62,8 @@
         z-index: -2;
     }​  */
 
-    /* Arrows for titles */
-
-    
+    /* Arrows for titles */    
     /* left side */
-    .arrow_title_left div h2 {
-        position: relative;
-        background-image: linear-gradient( 90deg, #48FCDF 0%, #E6D2FF 48%, #F72585 100%);
-        background-repeat: repeat;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        display: inline-block;
-    }
     .arrow_title_left div h2 {
         position: relative;
         background-image: linear-gradient( 90deg, #48FCDF 0%, #E6D2FF 48%, #F72585 100%);
@@ -299,5 +289,22 @@
 
     .menu-toggle-active {
         @apply duration-500 opacity-100 visible lg:opacity-100 lg:visible;
+    }
+}
+
+/* Arrows for titles */
+
+@media screen and (max-width: 850px) {
+    /* left side */
+    .arrow_title_left div h2:before {
+        display: none;
+    }
+
+    /* both sides */
+    .arrow_title div h2:before {
+        display: none;
+    }
+    .arrow_title div h2:after {
+        display: none;
     }
 }
