@@ -74,7 +74,7 @@ const ListAuction : React.FC = () => {
                     <CardTeam
                         author="Abdelaziz"
                         authorVerified={true}
-                        title="Sofware Engineer, AI Expert"
+                        title="AI Expert"
                         bidPrice={0.00234}
                         image={abdo}
                         date="MS in Computer Science, and PhD in Machine Learning. Abdelaziz has been involved in Blockchain space since 2018. Passionate about Gaming, AI, NFTs and Blockchain."
