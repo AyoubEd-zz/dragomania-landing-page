@@ -28,7 +28,7 @@ function App() {
         <LatestAuction />
       </div>
 
-      <div className="" style={{paddingTop: '80px'}}>
+      <div className="p2e" style={{paddingTop: '80px'}}>
         <Concept />
       </div>
 

@@ -295,8 +295,29 @@
 
 @media screen and (max-width: 850px) {
     /* removes padding that was added for navbar */
-    #solana, #auction, #story, #roadmap, #team, #companies{
+    #solana, #auction, #story, #roadmap, #team, #companies, #earn{
         padding-top: 0px !important;
+    }
+    #earn {
+        margin-top: 30px;
+    }
+    .p2e{
+        margin-top: -80px;
+    }
+        .p2e .glowing_txt{
+            margin-bottom: 40px;
+            margin-top: -30px;
+        }
+    .o2e {
+        padding-bottom: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    #story{
+        margin-top: -40px;
+    }
+    .relative img{
+        margin-top: 60px;
+        margin-bottom: -50px !important;
     }
     /* add padding for footer */
     #footer{

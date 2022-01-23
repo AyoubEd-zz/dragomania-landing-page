@@ -3,7 +3,7 @@ import TitleSection from "../TitleSection";
 
 const ContentRight: React.FC = () => {
   return (
-    <div className='container mx-auto flex flex-col flex-nowrap items-center flex-grow-0 flex-shrink w-full xl:w-6/12 px-4 mb-16 xl:mb-0 items-center'>
+    <div className='container mx-auto flex flex-col flex-nowrap items-center flex-grow-0 flex-shrink w-full xl:w-6/12 px-4 mb-16 xl:mb-0 items-center o2e'>
       <TitleSection
         title="OWN-TO-EARN"
         subtitle=""
