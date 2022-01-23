@@ -5,7 +5,7 @@ import TitleSection from "../TitleSection";
 const Content: React.FC = () => {
   return (
     <div className="flex-grow-0 flex-shrink w-full xl:w-6/12 px-10 mx-auto roadmap">
-      <TitleSection title="ROADMAP" subtitle="Game" classes="mb-4 colorfull_text arrow_title_left" />
+      <TitleSection title="ROADMAP" subtitle="Game" classes="mb-4 colorfull_text arrow_title_left glowing_txt" />
       <ul className="list">
         <li
           style={{

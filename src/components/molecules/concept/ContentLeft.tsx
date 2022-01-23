@@ -8,7 +8,7 @@ const ContentLeft: React.FC = () => {
       <TitleSection
         title="PLAY-TO-EARN"
         subtitle=""
-        classes="mb-4 colorfull_text"
+        classes="mb-4 colorfull_text glowing_txt"
       />
 
       <div className="text-muted flex flex-row flex-wrap">
