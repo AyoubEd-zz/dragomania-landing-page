@@ -298,6 +298,11 @@
     #solana, #auction, #story, #roadmap, #team, #companies{
         padding-top: 0px !important;
     }
+    /* add padding for footer */
+    #footer{
+        padding: 20px;
+        padding-top: 0px !important;
+    }
     /* left side */
     .arrow_title_left div h2:before {
         display: none;

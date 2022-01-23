@@ -52,7 +52,7 @@ function App() {
         <Faq />
       </div>
 
-      <div className='mt-20'>
+      <div className='mt-20' id="footer">
         <Footer/>
       </div>
 
