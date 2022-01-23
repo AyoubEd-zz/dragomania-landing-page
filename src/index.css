@@ -295,6 +295,10 @@
 /* Arrows for titles */
 
 @media screen and (max-width: 850px) {
+    /* removes padding that was added for navbar */
+    #solana, #auction, #story, #roadmap, #team, #companies{
+        padding-top: 0px !important;
+    }
     /* left side */
     .arrow_title_left div h2:before {
         display: none;
