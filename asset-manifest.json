@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dragomania-landing-page/static/css/main.21319fef.css",
-    "main.js": "/dragomania-landing-page/static/js/main.8c756b40.js",
+    "main.css": "/dragomania-landing-page/static/css/main.2030d51b.css",
+    "main.js": "/dragomania-landing-page/static/js/main.28cd6fb5.js",
     "static/js/787.bcfc76df.chunk.js": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js",
     "static/media/dragos-animated.gif": "/dragomania-landing-page/static/media/dragos-animated.9ffa154cf0b90fa88ec5.gif",
     "static/media/electric-drago.png": "/dragomania-landing-page/static/media/electric-drago.7eaeb2ae80e2f9207657.png",
@@ -15,8 +15,12 @@
     "static/media/steel.gif": "/dragomania-landing-page/static/media/steel.8e28a263afed6b23ab53.gif",
     "static/media/sound.gif": "/dragomania-landing-page/static/media/sound.b9ac088e4f213158964a.gif",
     "static/media/Wakfu_Logo.png": "/dragomania-landing-page/static/media/Wakfu_Logo.963b9df5bb4c1dad42cc.png",
+    "static/media/Egg.png": "/dragomania-landing-page/static/media/Egg.8825a06c67b1fc98f8a7.png",
     "static/media/solana-drago.png": "/dragomania-landing-page/static/media/solana-drago.6335859ca4b4ec0940cc.png",
     "static/media/EY-logo.png": "/dragomania-landing-page/static/media/EY-logo.431ccb4afdefdebb2c18.png",
+    "static/media/address_sans_pro_bold.otf": "/dragomania-landing-page/static/media/address_sans_pro_bold.c2bc5008484844bb1b72.otf",
+    "static/media/address_sans_pro_regular.otf": "/dragomania-landing-page/static/media/address_sans_pro_regular.84a7137deaa0217b5c47.otf",
+    "static/media/address_sans_pro_xt_regular.otf": "/dragomania-landing-page/static/media/address_sans_pro_xt_regular.3a3eef950838dc651dcd.otf",
     "static/media/log_animated.gif": "/dragomania-landing-page/static/media/log_animated.230ee9ec040a068fedf6.gif",
     "static/media/dofus.png": "/dragomania-landing-page/static/media/dofus.43aa3fc42d468321920c.png",
     "static/media/natixis.png": "/dragomania-landing-page/static/media/natixis.cc22d61a5be35ada10b0.png",
@@ -28,16 +32,17 @@
     "static/media/bnp-white.png": "/dragomania-landing-page/static/media/bnp-white.59fdb79d1eb9df3380e5.png",
     "static/media/drago4.jpg": "/dragomania-landing-page/static/media/drago4.4bdc9a12c3c249943b47.jpg",
     "static/media/drago5.jpg": "/dragomania-landing-page/static/media/drago5.22f5b1ca707cf82f4824.jpg",
+    "static/media/ankama_white.png": "/dragomania-landing-page/static/media/ankama_white.2d44a437da4df1baec82.png",
     "static/media/Google-logo.png": "/dragomania-landing-page/static/media/Google-logo.b03833d6fc061913e666.png",
     "index.html": "/dragomania-landing-page/index.html",
     "static/media/arrow_left_s.svg": "/dragomania-landing-page/static/media/arrow_left_s.6f94b7269bcbeec0dba6.svg",
     "static/media/arrow_right_s.svg": "/dragomania-landing-page/static/media/arrow_right_s.f078d8b6ac86176a46c7.svg",
-    "main.21319fef.css.map": "/dragomania-landing-page/static/css/main.21319fef.css.map",
-    "main.8c756b40.js.map": "/dragomania-landing-page/static/js/main.8c756b40.js.map",
+    "main.2030d51b.css.map": "/dragomania-landing-page/static/css/main.2030d51b.css.map",
+    "main.28cd6fb5.js.map": "/dragomania-landing-page/static/js/main.28cd6fb5.js.map",
     "787.bcfc76df.chunk.js.map": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21319fef.css",
-    "static/js/main.8c756b40.js"
+    "static/css/main.2030d51b.css",
+    "static/js/main.28cd6fb5.js"
   ]
 }
