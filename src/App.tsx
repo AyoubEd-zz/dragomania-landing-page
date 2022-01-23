@@ -13,7 +13,7 @@ import Companies from "./components/organisms/companies";
 
 function App() {
   return (
-    <div>
+    <div className="container_eggs">
       <Navigation />
 
       <div className="py-20 " id="game" style={{paddingTop: '80px'}}>

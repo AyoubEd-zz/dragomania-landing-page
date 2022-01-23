@@ -41,8 +41,7 @@
     }
 
     /* Eggs background */
-    /* .container_body {  position: relative; }
-    .container_body:before {
+    .container_eggs:before {
         content: "";
         position: absolute;
         top: 0;
@@ -50,14 +49,14 @@
         left: 0;
         right: 0;
         z-index: -2;
-        background-image: url(./components/utils/images/Egg.png) !important;
+        background: linear-gradient(0deg, rgba(255, 255, 255, 0.000000001), rgba(255, 255, 255, 0.0001)), url(./components/utils/images/Egg.png) !important;
         background-repeat: repeat;
-        opacity: 0.05;
+        opacity: 0.01;
     }     
-    .container_body{
-        background: linear-gradient(0deg, rgba(255, 255, 255, 0.000000001), rgba(255, 255, 255, 0.0001)), url(./components/utils/images/Egg.png);
+    .container_eggs{
+        position: relative;
     }
-    .container_bg {
+    /* .eggs_bg {
         position: relative; 
         z-index: -2;
     }​  */
