@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dragomania-landing-page/static/css/main.f54fe614.css",
-    "main.js": "/dragomania-landing-page/static/js/main.ee0ccf97.js",
+    "main.css": "/dragomania-landing-page/static/css/main.74db6f05.css",
+    "main.js": "/dragomania-landing-page/static/js/main.419ab390.js",
     "static/js/787.bcfc76df.chunk.js": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js",
     "static/media/dragos-animated.gif": "/dragomania-landing-page/static/media/dragos-animated.9ffa154cf0b90fa88ec5.gif",
     "static/media/electric-drago.png": "/dragomania-landing-page/static/media/electric-drago.7eaeb2ae80e2f9207657.png",
@@ -20,10 +20,10 @@
     "static/media/address_sans_pro_bold.otf": "/dragomania-landing-page/static/media/address_sans_pro_bold.c2bc5008484844bb1b72.otf",
     "static/media/address_sans_pro_regular.otf": "/dragomania-landing-page/static/media/address_sans_pro_regular.84a7137deaa0217b5c47.otf",
     "static/media/address_sans_pro_xt_regular.otf": "/dragomania-landing-page/static/media/address_sans_pro_xt_regular.3a3eef950838dc651dcd.otf",
-    "static/media/DragoJurassic.png": "/dragomania-landing-page/static/media/DragoJurassic.63213318f96fd8138817.png",
     "static/media/log_animated.gif": "/dragomania-landing-page/static/media/log_animated.230ee9ec040a068fedf6.gif",
     "static/media/dofus.png": "/dragomania-landing-page/static/media/dofus.43aa3fc42d468321920c.png",
     "static/media/drago3.jpg": "/dragomania-landing-page/static/media/drago3.85d1d01419dd66949eee.jpg",
+    "static/media/DragoJurassic.jpg": "/dragomania-landing-page/static/media/DragoJurassic.8b94f883016ef74e1974.jpg",
     "static/media/drago1.jpg": "/dragomania-landing-page/static/media/drago1.b02c92139634deaa2a5b.jpg",
     "static/media/drago6.jpg": "/dragomania-landing-page/static/media/drago6.308d69856f584ea023f3.jpg",
     "static/media/drago2.jpg": "/dragomania-landing-page/static/media/drago2.173bae00af9f3690209b.jpg",
@@ -33,12 +33,12 @@
     "index.html": "/dragomania-landing-page/index.html",
     "static/media/arrow_left_s.svg": "/dragomania-landing-page/static/media/arrow_left_s.6f94b7269bcbeec0dba6.svg",
     "static/media/arrow_right_s.svg": "/dragomania-landing-page/static/media/arrow_right_s.f078d8b6ac86176a46c7.svg",
-    "main.f54fe614.css.map": "/dragomania-landing-page/static/css/main.f54fe614.css.map",
-    "main.ee0ccf97.js.map": "/dragomania-landing-page/static/js/main.ee0ccf97.js.map",
+    "main.74db6f05.css.map": "/dragomania-landing-page/static/css/main.74db6f05.css.map",
+    "main.419ab390.js.map": "/dragomania-landing-page/static/js/main.419ab390.js.map",
     "787.bcfc76df.chunk.js.map": "/dragomania-landing-page/static/js/787.bcfc76df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f54fe614.css",
-    "static/js/main.ee0ccf97.js"
+    "static/css/main.74db6f05.css",
+    "static/js/main.419ab390.js"
   ]
 }
