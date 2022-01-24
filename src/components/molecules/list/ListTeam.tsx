@@ -3,8 +3,8 @@ import CardTeam from '../../atoms/card/CardTeam'
 import anas from '../../utils/images/team/drago1.jpg'
 import alex from '../../utils/images/team/drago2.jpg'
 import ayoub from '../../utils/images/team/drago3.jpg'
-import emilien from '../../utils/images/team/drago4.jpg'
-import gui from '../../utils/images/team/drago5.jpg'
+import gui from '../../utils/images/team/drago4.jpg'
+import emilien from '../../utils/images/team/DragoJurassic.png'
 import abdo from '../../utils/images/team/drago6.jpg'
 
 const ListAuction : React.FC = () => {
@@ -60,9 +60,9 @@ const ListAuction : React.FC = () => {
                 </div>
                 <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardTeam
-                        author="Guillaume"
+                        author="Giho"
                         authorVerified={true}
-                        title="Game designer"
+                        title="Concept Artist & Game design"
                         bidPrice={0.00234}
                         image={gui}
                         date="Over ten years of experience at Ankama. Participated in the development of Dofus and Wakfu and other games. Combining his experiences at the game studio Ankama and his passion for NFT gaming."
@@ -72,12 +72,12 @@ const ListAuction : React.FC = () => {
                 </div>
                 <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardTeam
-                        author="Abdelaziz"
+                        author="Anger"
                         authorVerified={true}
                         title="AI Expert"
                         bidPrice={0.00234}
                         image={abdo}
-                        date="MS in Computer Science, and PhD in Machine Learning. Abdelaziz has been involved in Blockchain space since 2018. Passionate about Gaming, AI, NFTs and Blockchain."
+                        date="MS in Computer Science and PhD in Machine Learning. Anger has been involved in Blockchain space since 2017. Passionate about AI and Blockchain."
                         expired={1639152000}
                         link=""
                     />
