@@ -18,7 +18,7 @@ const Companies : React.FC = () => {
                 classes='text-center mb-10  colorfull_text'
             />
 
-            <div className='flex flex-row flex-wrap  content-center'  style={{paddingTop:"80px"}} >
+            <div className='flex flex-row flex-wrap  content-center companies_list' >
                 <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardImage image={Google}/>
                 </div>
