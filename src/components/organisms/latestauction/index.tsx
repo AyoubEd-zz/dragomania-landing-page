@@ -9,7 +9,7 @@ const LatestAuction : React.FC = () => {
     return (
         <div className='container mx-auto' >
             <TitleSection
-                title='GENESIS DARGOS'
+                title='GENESIS DRAGOS'
                 subtitle='Meet the antagonists'
                 classes='text-center mb-10 colorfull_text arrow_title'
             />
