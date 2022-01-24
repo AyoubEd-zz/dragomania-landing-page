@@ -11,14 +11,14 @@ import Wakfu from '../../utils/images/companies/Wakfu_Logo.png'
 
 const Companies : React.FC = () => {
     return (
-        <div className='container mx-auto'>
+        <div className='container mx-auto'  style={{paddingTop:"-90px"}}>
             <TitleSection
                 title='Our Team worked in these companies'
                 subtitle=''
-                classes='text-center mb-10  colorfull_text arrow_title'
+                classes='text-center mb-10  colorfull_text'
             />
 
-            <div className='flex flex-row flex-wrap  content-center'  style={{paddingTop:"50px"}} >
+            <div className='flex flex-row flex-wrap  content-center'  style={{paddingTop:"80px"}} >
                 <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardImage image={Google}/>
                 </div>

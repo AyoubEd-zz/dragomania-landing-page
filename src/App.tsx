@@ -44,7 +44,7 @@ function App() {
         <Team />
       </div>
 
-      <div className='mt-20' id="companies" style={{paddingTop:  '60px'}}>
+      <div className='mt-20' id="companies">
         <Companies />
       </div>
       
