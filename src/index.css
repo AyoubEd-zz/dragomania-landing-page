@@ -319,10 +319,10 @@
     #story{
         margin-top: -40px;
     }
-    .relative img{
-        margin-top: 60px;
+    /* .relative img{
+        margin-top: 20px;
         margin-bottom: -50px !important;
-    }
+    } */
     /* add padding for footer */
     #footer{
         padding: 20px;
