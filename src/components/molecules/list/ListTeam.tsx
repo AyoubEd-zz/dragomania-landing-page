@@ -4,7 +4,7 @@ import anas from '../../utils/images/team/drago1.jpg'
 import alex from '../../utils/images/team/drago2.jpg'
 import ayoub from '../../utils/images/team/drago3.jpg'
 import gui from '../../utils/images/team/drago4.jpg'
-import emilien from '../../utils/images/team/DragoJurassic.png'
+import emilien from '../../utils/images/team/DragoJurassic.jpg'
 import abdo from '../../utils/images/team/drago6.jpg'
 
 const ListAuction : React.FC = () => {
@@ -62,7 +62,7 @@ const ListAuction : React.FC = () => {
                     <CardTeam
                         author="Giho"
                         authorVerified={true}
-                        title="Concept Artist & Game design"
+                        title="Lead Technical Artist"
                         bidPrice={0.00234}
                         image={gui}
                         date="Over ten years of experience at Ankama. Participated in the development of Dofus and Wakfu and other games. Combining his experiences at the game studio Ankama and his passion for NFT gaming."
@@ -74,7 +74,7 @@ const ListAuction : React.FC = () => {
                     <CardTeam
                         author="Anger"
                         authorVerified={true}
-                        title="AI Expert"
+                        title="Software Engineer, AI Expert"
                         bidPrice={0.00234}
                         image={abdo}
                         date="MS in Computer Science and PhD in Machine Learning. Anger has been involved in Blockchain space since 2017. Passionate about AI and Blockchain."
