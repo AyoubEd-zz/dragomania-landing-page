@@ -16,43 +16,43 @@ function App() {
     <div className="container_eggs">
       <Navigation />
 
-      <div className="py-20 " id="game" style={{paddingTop: '80px'}}>
+      <div className="py-20  zoom_out" id="game" style={{paddingTop: '80px'}}>
         <Collection />
       </div>
 
-      <div className='mb-20' id="solana" style={{paddingTop: '80px'}}>
+      <div className='mb-20 zoom_out' id="solana" style={{paddingTop: '80px'}}>
         <Solana />
       </div>
 
-      <div className="" id="auction" style={{paddingTop: '80px'}}>
+      <div className=" zoom_out" id="auction" style={{paddingTop: '80px'}}>
         <LatestAuction />
       </div>
 
-      <div className="p2e" style={{paddingTop: '80px'}}>
+      <div className="p2e zoom_out" style={{paddingTop: '80px'}}>
         <Concept />
       </div>
 
-      <div className='mt-20' id="story" style={{paddingTop: '80px'}}>
+      <div className='mt-20 zoom_out' id="story" style={{paddingTop: '80px'}}>
         <Story />
       </div>
 
-      <div className='my-20' id="roadmap" style={{paddingTop: '80px'}}>
+      <div className='my-20 zoom_out' id="roadmap" style={{paddingTop: '80px'}}>
         <RoadMap />
       </div>
 
-      <div className='mt-20' id="team" style={{paddingTop: '80px'}}>
+      <div className='mt-20 zoom_out' id="team" style={{paddingTop: '80px'}}>
         <Team />
       </div>
 
-      <div className='mt-20' id="companies">
+      <div className='mt-20 zoom_out' id="companies">
         <Companies />
       </div>
       
-      <div className=' pt-20' id="faq" style={{paddingTop: '80px'}}>
+      <div className=' pt-20 zoom_out' id="faq" style={{paddingTop: '80px'}}>
         <Faq />
       </div>
 
-      <div className='mt-20' id="footer">
+      <div className='mt-20 zoom_out' id="footer">
         <Footer/>
       </div>
 
