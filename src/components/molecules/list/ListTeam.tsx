@@ -36,7 +36,7 @@ const ListAuction : React.FC = () => {
                 </div>
                 <div className='flex-grow-0 flex-shrink w-6/12 xl:w-2/12 p-3'>
                     <CardTeam
-                        author="ayoubeddd"
+                        author="PtolemyXVI"
                         authorVerified={true}
                         title="Chief Technical Officer"
                         bidPrice={0.00234}

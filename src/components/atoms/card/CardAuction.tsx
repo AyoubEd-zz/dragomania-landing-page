@@ -15,16 +15,19 @@ const CardAuction: React.FC<ICardAuction> = ({
   return (
     <div className="relative bg-navy-ascent rounded-lg duration-500 transform hover:scale-105 neon_simple">
       <div className="max-w-sm rounded overflow-hidden shadow-lg">
-        <img className="w-full" src={image} alt="Sunset in the mountains" />
-        <div className="flex flex-row px-14 py-2 items-center rounded-lg my-2 mx-2">
-          <img
-            src={icon}
-            alt="card icon, represents a class element"
-            style={{ height: "25px", width: "25px" }}
-          />
-          <span className="inline-block px-3 py-1 text-lg font-bold text-pink">
-            {title}
-          </span>
+        <img className="" src={image} alt="Sunset in the mountains" />
+        <div className="flex">
+          <div className="flex flex-row flex-none grow-0 items-center my-2 mx-auto">
+            <img
+              src={icon}
+              alt="card icon, represents a class element"
+              style={{ height: "25px", width: "25px" }}
+              className="flex-none"
+            />
+            <span className="flex-none pl-3 py-1 text-lg font-bold text-pink">
+              {title}
+            </span>
+          </div>
         </div>
       </div>
     </div>
