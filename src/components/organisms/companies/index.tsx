@@ -15,7 +15,7 @@ const Companies : React.FC = () => {
             <TitleSection
                 title='Our Team worked in these companies'
                 subtitle=''
-                classes='text-center mb-10  colorfull_text arrow_title_left_no'
+                classes='text-center mb-10  colorfull_text glowing_txt'
             />
 
             <div className='flex flex-row flex-wrap  content-center companies_list' >
